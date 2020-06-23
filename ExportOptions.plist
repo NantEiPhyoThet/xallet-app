@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/NantEiPhyoThet/xallet-app/raw/master/Xallet.ipa</string>
+		<string>https://github.com/NantEiPhyoThet/xallet-app/raw/master/Xallet.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/NantEiPhyoThet/xallet-app/raw/master/image_57.png</string>
+		<string>https://github.com/NantEiPhyoThet/xallet-app/raw/master/image_57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://raw.githubusercontent.com/NantEiPhyoThet/xallet-app/raw/master/image_512.png</string>
+		<string>https://github.com/NantEiPhyoThet/xallet-app/raw/master/image_512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
