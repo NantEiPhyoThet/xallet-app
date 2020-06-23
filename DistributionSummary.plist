@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Xallet.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FF7B0E10F7D2A124EF0CACD974029B2125EBBA8B</string>
+				<key>dateExpires</key>
+				<string>18/6/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>95J4Q2646G.org.loyalfamous.xallet</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>95J4Q2646G</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Xallet.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9a1f5947-9205-4953-a7c9-059469bf0f78</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: org.loyalfamous.xallet</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>95J4Q2646G</string>
+				<key>name</key>
+				<string>IMMIN PTE. LTD.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
