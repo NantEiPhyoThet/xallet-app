@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>FF7B0E10F7D2A124EF0CACD974029B2125EBBA8B</string>
+				<string>14DEC1E492C3AEB6F93327E4FC8C12A09DA234E3</string>
 				<key>dateExpires</key>
-				<string>18/6/21</string>
+				<string>2/7/22</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -35,7 +35,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f5826292-e4fb-4cea-a5d0-cd67e43e097b</string>
+				<string>35ada190-958f-42f9-aa89-544342d7ca76</string>
 				<key>name</key>
 				<string>iOS Team Ad Hoc Provisioning Profile: org.loyalfamous.xallet.swiss</string>
 			</dict>
